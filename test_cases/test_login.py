@@ -13,8 +13,8 @@ class Test_Login:
     def test_login(self, driver):
         pass
 
-    def test_logout(self):
-        pass
+    # def test_logout(self):
+    #     pass
 
-    def test_profile_page(self):
-        pass
+    # def test_profile_page(self):
+    #     pass
