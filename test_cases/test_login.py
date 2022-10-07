@@ -12,3 +12,6 @@ class Test_Login:
 
     def test_login(self, driver):
         pass
+
+    def test_logout(self):
+        pass
